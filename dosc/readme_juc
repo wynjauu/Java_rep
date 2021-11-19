@@ -1,0 +1,101 @@
+                                        主要内容
+
+1、java JUC简介
+    在Java5.0提供了Java.util.concurrent(简称JUC)包，在此包中增加了在并发编程中很常用的实用工具类，用于定义类似与线程的自定义系统，包括线程池、
+    异步IO和轻量级任务框架。提供可调用的、灵活的线程池。还提供了设计用于多线程上下文中的Collection实现等。
+
+2、volatile关键字-内存可见性
+
+3、原子变量-CAS算法
+    CAS算法：
+          一、CAS（Compare-And-Swap）是一种硬件对并发的支持，针对多处理器操作而设计的处理器种的一种特殊指令，用于管理对共享数据的并发访问。
+          二、 CAS是一种无锁的非阻塞算法的实现
+          三、CAS包含了3个操作数：
+            1：需要读写的内存值V
+            2：进行比较的值A
+            3：拟写入的新值B
+          四、当且仅当V的值等于A时，CAS通过原子方式用新值B来更新V的值，否则不会执行任何操作。
+
+4、ConcurrentHashMap锁分段机制
+    一、java5.0在java.util.concurrent包中提供了多种并发容器类来改进同步容器的性能。
+    二、ConcurrentHashMap同步容器类是Java5增加的一个线程安全的哈希表。对与多线程的操作，介于HashMap与Hashtable之间。内部采用"锁分段"机制替代
+        Hashtable的独占锁。进而提高性能。
+    三、此包还提供了设计用于多线程上下文的Collection实现：
+        ConcurrentHashMap、ConcurrentSkipListMap、ConcurrentSkipListSet、CopyOnWriteArrayList和CopyOnWriteArraySet。当期望许多线程
+        访问一个给定collection时，ConcurrentHashMap通常优于同步的HashMap，ConcurrentSkipListMap通常优于同步的TreeMap。当期望的读数和遍历远远
+        大于列表的更新数时，CopyOnWriteArrayList优于同步的ArrayList。
+
+
+5、CountDownLatch闭锁
+    一、Java5.0在Java.util.concurrent包中提供了多种并发容器类来改进同步容器的性能。
+    二、CountDownLatch一个同步辅助类，在完成一组正在其他线程中执行的操作之前，它允许一个或者多个线程一直等待。
+    三、闭锁可以延迟线程的进度直到其到达终止状态，闭锁可以用来确保某些其他活动直到其他活动都完成才继续执行：
+        1：确保某个计算在其需要的所有资源都被初始化以后才继续执行；
+        2：确保某个服务在其依赖的所有其他服务都已经启动之后才启动；
+        3：等待直到某个操作所有参与者都准备就绪再继续执行。
+6、实现Callable接口
+    创建线程一共有四种方法，这个时第三种，还有一种时线程池。
+
+7、Lock同步锁
+
+8、Condition控制线程通信
+    一、Conditon接口描述了可能会与锁有关联的条件变量。这些变量在用法上与使用Object.wait访问的隐式监听器类似，但提供了更强大的功能。需要特别指出的是单个Lock
+        可能与多个Condition对象关联。为了避免兼容性问题，Condition方法的名称与对应的Object版本中的不同。
+    二、在condition对象中，与wait、notify和notifyAll方法对应的分别是await、signal和signalAll.
+    三、condition实例实质上被绑定到一个锁上。要为特定的Lock实例获得Condition实例，请使用其newCondition()方法。
+
+9、线程八锁
+
+10、线程按序交替
+    编写一个程序，开启三个线程，这三个线程的ID分别为A、B、C，每个线程将自己的ID在屏幕上打印10遍，要求输出的结果必须按顺序显示。
+    如：ABCABCABC......一次递归
+
+11、ReadWriteLock读写锁
+
+12、线程池
+
+   一、线程池:提供了一个线程队列，队列中保存着所有等待状态的线程。避免了创建与销毁额外的开销，提高了响应的速度。
+
+   二、线程池的体系结构：
+   java.util.concurrent.Executor:负责线程的使用与调度的根接口
+     |--**ExecutorService   子接口：线程池的主要接口
+       |--ThreadPoolExecutor  线程池的实现类
+       |--ScheduledExecutorService 子接口：负责线程的调度
+          |--ScheduledThreadPoolExecutor:继承了ThreadPoolExecutor，实现了ScheduledExecutorService，既有线程池的功能又可以做线程调度
+
+   三、工具类：Executors
+   ExecutorService newFixedThreadPool(): 创建固定大小的线程池
+   ExecutorService newCachedThreadPool():缓存线程池，线程池的数量不固定，可以根据需求自动的更改数量
+   ExecutorService newSingleThreadExecutor():创建单个线程池。线程池中只有一个线程
+
+13、线程调度
+
+14、ForkJoinPool分支/合并框架 工作窃取
+    Fork/Join框架：就是在必要的情况下，将一个大任务进行拆分（fork）成若干个小任务（拆到不可再拆时），再将一个个小任务运行的结果进行join操作。
+    Fork/Join框架与线程池的区别：
+        1、采用"工作窃取"模式
+            当执行新的任务时它可以将其拆分成更小的任务执行，并将小任务加到线程队列中，然后再从一个随机线程的队列中然后再从一个随机线程的队列中偷一个并把它放在自己的线程队列中。
+        2、相对于一般的线程池实现，fork/join框架的优势体现在对其中包含的任务的处理方式上，在一般的线程池中，如果一个线程正在执行的任务由于某些原因无法继续执行，那么该线程会
+        处于等待状态。而在fork/join框架实现中，如果某个子问题由于等待另外一个子问题的完成而无法继续运行。那么处理该子问题的线程会主动寻找其他尚未运行的子问题来执行，这种方式减少了
+        线程的等待时间，提高了性能。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

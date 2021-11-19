@@ -1,0 +1,7 @@
+
+W
+java:S1118":Add a private constructor to hide the implicit public one.(±éşÑ8ğà½ûŒ/
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(±éşÑ
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(±¼¸Ú8ºûÄûŒ/
+U
+java:S1197("8Move the array designator from the variable to the type.(¯€˜8Ã°‘¦/

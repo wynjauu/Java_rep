@@ -1,0 +1,7 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°Àõµúÿÿÿÿ
+m
+java:S1149P"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(óöÛè8É–µ§/
+r
+java:S1149I"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ıÎ¯‚ûÿÿÿÿ8É–µ§/
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(êôÏœøÿÿÿÿ

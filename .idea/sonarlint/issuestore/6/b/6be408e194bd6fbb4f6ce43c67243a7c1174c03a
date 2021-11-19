@@ -1,0 +1,10 @@
+
+k	java:S116["ORename this field "Next" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î®ìò8èºü”/
+m	java:S117f"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô±˜8èºü”/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°Àõµúÿÿÿÿ
+m	java:S117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò È“8èºü”/
+N
+java:S1128
+",Remove this unused import 'java.util.Stack'.(ŞÈ†üúÿÿÿÿ8èºü”/
+p	java:S116Z"ORename this field "Data" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÇ®øûÿÿÿÿ8èºü”/
+r	java:S117n"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷İ¶şÿÿÿÿ8èºü”/

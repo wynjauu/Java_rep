@@ -1,0 +1,57 @@
+/*
+ * Copyright © 2016-2019 net.qutoutiao.
+ *
+ * This file is part of JUC_20190508 project.
+ * It can not be copied and/or distributed without the express
+ * permission of bigdata group.
+ */
+package net.qutoutiao.juc;
+
+/**
+ * 模拟 CAS 算法
+ *
+ * @author wuyang
+ * @version 1.2.0, 2019-05-09 23:11
+ * @since 1.2.0, 2019-05-09 23:11
+ */
+public class TestCompareAndSwap {
+    public static void main(String[] args) {
+        final CompareAndSwap cas = new CompareAndSwap();
+        for (int i = 0; i < 10; i++) {
+            new Thread(new Runnable() {
+                @Override
+                public void run() {
+                    int expectedValue = cas.get();
+                    boolean b = cas.compareAndSet(expectedValue, (int) (Math.random() * 101));
+                    System.out.println(b);
+                }
+            }).start();
+        }
+    }
+}
+
+class CompareAndSwap {
+    private int value;
+
+
+    //获取内存值
+    public synchronized int get() {
+        return value;
+    }
+
+    //比较
+    public synchronized int compareAndSwap(int expectedValue, int newValue) {
+        int oldValue = value;
+
+        if (oldValue == expectedValue) {
+            this.value = newValue;
+        }
+
+        return oldValue;
+    }
+
+    //设置
+    public synchronized boolean compareAndSet(int expectedValue, int newValue) {
+        return expectedValue == compareAndSwap(expectedValue, newValue);
+    }
+}
