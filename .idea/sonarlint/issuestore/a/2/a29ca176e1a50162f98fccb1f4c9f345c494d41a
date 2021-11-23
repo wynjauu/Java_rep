@@ -1,0 +1,7 @@
+
+v
+java:S30128"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(íù¯8˜àŞãÓ/
+“
+java:S1319="qThe type of the "nodes" object should be an interface such as "List" rather than the implementation "LinkedList".(ôò³ùÿÿÿÿ8É¶İãÓ/
+o	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×·è­ÿÿÿÿÿ8ı‰ãâÓ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(À„ÉÕ
