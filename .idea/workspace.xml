@@ -1,51 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c21a4e6-811c-4178-885d-45bed5b14de3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/array/二分搜索/LC1011.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/array/二分搜索/LC875.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/0/0020463da03893dd3afde70f440b6be99a2c8afe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/042aba06a54921e381ca13f9da790781bfa5ecd0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/0/10af906d166ed0c3c178cbf330d377fd530df202" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/a/1a6b06a5656638205163f918f6c60747d8a176f8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/5/255a3ede818d24de383aec15447b27f16e05d53f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/28bd71bca2c88eb42269efc1d56569d94f89e9b8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/f/2f2681a67a74d010582b5a1bc7c194cb4dc55a70" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3dc7b3910d9dbcf82b6605a66fb77427df3517b2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/3/432b8d9c177cc02d7498ca186e129d1b1853970a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/0/50ef0f2341b93fdcd7e3aee44ab913bf3bd991f1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/55b122c8a6a78850bd39947bfc194dbe2db1dc49" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/0/60924d9017cff57acbd170b7aa58eda4f4ad62b4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/676c27375b5a736f5ce96df4ad40f3848d0e3467" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/8/687e8efa5c48a0138cc744841681a1792a555ac1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/73c2d3889ceaf9684aef4a79330ca8018837ee8e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7e5b6d6bb0f969bf6342712890837f2a62a82e6c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/859c95ddb3aa5fdeebb03119491f56223267bddd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/b/8b0b68d35e784249d87ec0e36800a3aea2fa53a1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8dad489a8b6dbaabbd5f07c9850989ea7f788a59" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/f/8f9d18333ce3068a7a6f98a161940af95058234d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/b/9b42c0412742525353a30558ab55d41d75079242" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/2/a29ca176e1a50162f98fccb1f4c9f345c494d41a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a6aec3cd87b77789ad36b1b3c57f743371c63c71" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b9ef6513f17294e38450139270dc93231b8439b9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cb9d780bf38fa7249a45444f998315b9305b5e66" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/2/d22323c1c573df11d38fd2a2b357cae1c6b77338" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/5/d59637bdbfcabfdd1fa84051393c98c71a9704bb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/e/de66acadb2865400bef06cb04e33367fa56a02fa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e0de356e46a798fcc1029a0848b07649750ecc4a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e30cd0b9c0f949e8dad645c25ff6c5610a75793f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e689b26c0138826b5ecfc2b4a1aa9205a0080373" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e9b82783ba23f327603a8a0f21a0cb3674c381ee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/4/f4313ef921d8af85eda0807723466fcb1f860782" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/a/fadf079d4839959794adf2f74772252ae503f361" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/a/fafe0b1366025ca74b0e5717c80dcf6dc89d1f6e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/c/fc0fb36c3dc2be170184c248a612b2d0fe9c3ba2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/ff374daf882cb2652d9c53e568f2bf11b25a6827" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/array/LC34.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/算法/搜索算法/LC704.class" beforeDir="false" />
-    </list>
+    <list default="true" id="0c21a4e6-811c-4178-885d-45bed5b14de3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -281,7 +237,7 @@
       <workItem from="1637486949274" duration="13000" />
       <workItem from="1637486982988" duration="2679000" />
       <workItem from="1637732751923" duration="6548000" />
-      <workItem from="1637910490947" duration="11012000" />
+      <workItem from="1637910490947" duration="11292000" />
     </task>
     <servers />
   </component>
