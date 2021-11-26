@@ -2,279 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c21a4e6-811c-4178-885d-45bed5b14de3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/array/二分搜索/LC34.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/2/d25696216dfb5518c300ff6371828100a163218a" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/array/二分搜索/LC1011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/array/二分搜索/LC875.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/0/0020463da03893dd3afde70f440b6be99a2c8afe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/042aba06a54921e381ca13f9da790781bfa5ecd0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/0/10af906d166ed0c3c178cbf330d377fd530df202" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/a/1a6b06a5656638205163f918f6c60747d8a176f8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/5/255a3ede818d24de383aec15447b27f16e05d53f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/28bd71bca2c88eb42269efc1d56569d94f89e9b8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/f/2f2681a67a74d010582b5a1bc7c194cb4dc55a70" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3dc7b3910d9dbcf82b6605a66fb77427df3517b2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/3/432b8d9c177cc02d7498ca186e129d1b1853970a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/0/50ef0f2341b93fdcd7e3aee44ab913bf3bd991f1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/55b122c8a6a78850bd39947bfc194dbe2db1dc49" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/0/60924d9017cff57acbd170b7aa58eda4f4ad62b4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/676c27375b5a736f5ce96df4ad40f3848d0e3467" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/8/687e8efa5c48a0138cc744841681a1792a555ac1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/73c2d3889ceaf9684aef4a79330ca8018837ee8e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7e5b6d6bb0f969bf6342712890837f2a62a82e6c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/859c95ddb3aa5fdeebb03119491f56223267bddd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/b/8b0b68d35e784249d87ec0e36800a3aea2fa53a1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8dad489a8b6dbaabbd5f07c9850989ea7f788a59" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/f/8f9d18333ce3068a7a6f98a161940af95058234d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/b/9b42c0412742525353a30558ab55d41d75079242" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/2/a29ca176e1a50162f98fccb1f4c9f345c494d41a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a6aec3cd87b77789ad36b1b3c57f743371c63c71" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b9ef6513f17294e38450139270dc93231b8439b9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cb9d780bf38fa7249a45444f998315b9305b5e66" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/2/d22323c1c573df11d38fd2a2b357cae1c6b77338" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/5/d59637bdbfcabfdd1fa84051393c98c71a9704bb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/e/de66acadb2865400bef06cb04e33367fa56a02fa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e0de356e46a798fcc1029a0848b07649750ecc4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e30cd0b9c0f949e8dad645c25ff6c5610a75793f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e689b26c0138826b5ecfc2b4a1aa9205a0080373" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e9b82783ba23f327603a8a0f21a0cb3674c381ee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/4/f4313ef921d8af85eda0807723466fcb1f860782" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/a/fadf079d4839959794adf2f74772252ae503f361" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/a/fafe0b1366025ca74b0e5717c80dcf6dc89d1f6e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/c/fc0fb36c3dc2be170184c248a612b2d0fe9c3ba2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/ff374daf882cb2652d9c53e568f2bf11b25a6827" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/数据结构/树/JZ27$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/数据结构/树/JZ27.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/数据结构/树/LC114$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/数据结构/树/LC114.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/数据结构/树/LC116$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/数据结构/树/LC116.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/数据结构/链表/JZ22$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/数据结构/链表/JZ22.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/数据结构/链表/JZ23_LC142$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/数据结构/链表/JZ23_LC142.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/数据结构/链表/JZ24$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/数据结构/链表/JZ24.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/数据结构/链表/JZ25_LC21$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/数据结构/链表/JZ25_LC21.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/数据结构/链表/JZ52_LC160$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/数据结构/链表/JZ52_LC160.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/数据结构/链表/JZ6$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/数据结构/链表/JZ6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/数据结构/链表/LC141$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/数据结构/链表/LC141.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/数据结构/链表/LC25$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/数据结构/链表/LC25.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/数据结构/链表/LC876$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/数据结构/链表/LC876.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/数据结构/链表/NC21_LC92$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/数据结构/链表/NC21_LC92.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/数据结构/链表/NC51_LC23$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/数据结构/链表/NC51_LC23$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/数据结构/链表/NC51_LC23.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/数据结构/链表/NC53_LC19$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/数据结构/链表/NC53_LC19.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/数据结构/链表/NC78$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/数据结构/链表/NC78.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/数据结构/链表/NC96_LC234$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/数据结构/链表/NC96_LC234.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/算法/其他算法/LC167.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/算法/其他算法/LC3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/算法/其他算法/LC438.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/算法/其他算法/LC567.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/算法/其他算法/NC103_LC344.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/算法/其他算法/NC28_LC76.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/算法/其他算法/字符串/NC141.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/算法/动态规划/JZ10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/算法/动态规划/LC103.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/JZ/算法/搜索算法/LC704.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J06$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J07$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J09.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J10_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J10_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J15.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J17.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J18$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J18.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J21.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J22$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J22.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J24$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J24.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J25$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J25.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J27$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J27.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J28$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J28.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J29.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J30.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J31.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J39.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J40.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J42.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J43.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J50.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J52$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J52.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J53_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J53_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J54$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J54.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J55_1$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J55_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J55_2$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J55_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J57.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J57_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J58_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J58_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J59_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J59_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J61.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J62.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J63.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J64.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J65.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J68_1$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J68_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J68_2$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/J68_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/KthLargest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/L69.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/L98$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/L98.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/LinkedList/DeleteNode$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/LinkedList/DeleteNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/LinkedList/GetKNodeFromTail$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/LinkedList/GetKNodeFromTail.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/LinkedList/LinkCopy$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/LinkedList/LinkCopy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/LinkedList/LinkNodeFanZhuan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/LinkedList/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/LinkedList/ReverseLinkedList$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/LinkedList/ReverseLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/LinkedList/findFirstCommonNode$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/LinkedList/findFirstCommonNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/SortQuick.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/Test$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/Test2$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/Test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/Test3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/array/Quchong.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/heap/GetLeastNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/heap/GetMiddleData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/mianshi/T1$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/mianshi/T1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/niuke/NC48.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/paixu/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/stack/QueueWithMax.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/stack/StackWithMin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/stack/TwoQueueImplementsStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/stack/TwoStackImplementsQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/tuopupaixu$node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/tuopupaixu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/zijie_20210524/J03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/zijie_20210524/J04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/zijie_20210524/J05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/zijie_20210524/J06$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/zijie_20210524/J06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/zijie_20210524/J07$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/zijie_20210524/J07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/zijie_20210524/J09.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/zijie_20210524/J10_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/zijie_20210524/J11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/algorithm/zijie_20210524/J12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/java8/annotation/MyAnnoation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/java8/annotation/MyAnnoations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/java8/annotation/TestAnnoation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/java8/datetime/DateFormatThreadLocal$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/java8/datetime/DateFormatThreadLocal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/java8/datetime/TestLocalDateTime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/java8/datetime/TestSimpleDateFormat$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/java8/datetime/TestSimpleDateFormat$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/java8/datetime/TestSimpleDateFormat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/java8/day01/Employee$Status.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/java8/day01/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/java8/day01/FilterEmployeeByAge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/java8/day01/FilterEmployeeBySalary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/java8/day01/MyPredicate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/java8/day01/TestLambda$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/java8/day01/TestLambda$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/java8/day01/TestLambda.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/java8/day02/MyFun.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/java8/day02/TestLambda2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/java8/day02/TestLambda2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/java8/day03/MyFunction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/java8/day03/MyFunction2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/java8/day03/TestLambda.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/java8/day03/TestLambda2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/java8/day03/TestMethodRef.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/java8/defaultAndstatic/DefalultTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/java8/defaultAndstatic/MyClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/java8/defaultAndstatic/MyDefaultClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/java8/defaultAndstatic/MyFun.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/java8/defaultAndstatic/MyInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/java8/optional/Godness.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/java8/optional/Man.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/java8/optional/NewMan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/java8/optional/TestOptional.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/java8/stream/TestStreamAPI1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/java8/stream/TestStreamAPI2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/java8/stream/TestStreamAPI3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/AlternateDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/AtomicDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/Clerk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/ClerkLock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/CompareAndSwap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/Consumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/ConsumerLock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/ForkJoinSumCalculate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/HelloThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/LatchDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/Number.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/Productor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/ProductorLock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/ReadWriteLockDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/TestABCAlternate$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/TestABCAlternate$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/TestABCAlternate$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/TestABCAlternate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/TestAtomicDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/TestCallable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/TestCompareAndSwap$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/TestCompareAndSwap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/TestCopyOnWriteArrayList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/TestCountDownLatch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/TestForkJoinPool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/TestLock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/TestReadWriteLock$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/TestReadWriteLock$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/TestReadWriteLock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/TestScheduledThreadPool$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/TestScheduledThreadPool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/TestThread8Monitor$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/TestThread8Monitor$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/TestThread8Monitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/TestThreadPool$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/TestThreadPool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/TestVolatile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/TestfProductorAndConsumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/TestfProductorAndConsumerForLock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/ThreadDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/ThreadDemo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/ThreadPoolDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/qutoutiao/juc/Ticket.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/数组/LC1094.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/array/LC1094.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/数组/LC1109.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/array/LC1109.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/数组/LC303.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/array/LC303.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/数组/LC304.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/array/LC304.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/数组/LC560.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/array/LC560.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/树/JZ27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/tree/JZ27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/树/JZ54.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/tree/JZ54.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/树/JZZ7_LC105.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/tree/JZZ7_LC105.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/树/LC106.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/tree/LC106.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/树/LC114.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/tree/LC114.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/树/LC116.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/tree/LC116.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/树/LC222.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/tree/LC222.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/树/LC236.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/tree/LC236.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/树/LC297.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/tree/LC297.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/树/LC450.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/tree/LC450.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/树/LC538.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/tree/LC538.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/树/LC652.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/tree/LC652.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/树/LC654.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/tree/LC654.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/树/LC700.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/tree/LC700.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/树/LC701.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/tree/LC701.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/树/LC95.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/tree/LC95.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/树/LC96.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/tree/LC96.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/树/LC98.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/tree/LC98.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/链表/JZ22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/List/JZ22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/链表/JZ23_LC142.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/List/JZ23_LC142.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/链表/JZ24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/List/JZ24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/链表/JZ25_LC21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/List/JZ25_LC21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/链表/JZ52_LC160.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/List/JZ52_LC160.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/链表/JZ6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/List/JZ6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/链表/LC141.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/List/LC141.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/链表/LC25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/List/LC25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/链表/LC876.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/List/LC876.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/链表/NC21_LC92.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/List/NC21_LC92.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/链表/NC51_LC23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/List/NC51_LC23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/链表/NC53_LC19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/List/NC53_LC19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/链表/NC78.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/List/NC78.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/链表/NC96_LC234.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/List/NC96_LC234.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/算法/搜索算法/LC704.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/data/array/二分搜索/LC704.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/array/LC34.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/算法/搜索算法/LC704.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -359,7 +129,20 @@
       <recent name="net.qutoutiao" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LC34">
+  <component name="RunManager" selected="Application.LC1011">
+    <configuration name="LC1011" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.bigdata.JZ.data.array.二分搜索.LC1011" />
+      <module name="java_20190508" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.bigdata.JZ.data.array.二分搜索.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LC114" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="net.bigdata.JZ.data.tree.LC114" />
       <module name="java_20190508" />
@@ -399,19 +182,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NC21_LC92" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.bigdata.JZ.data.List.NC21_LC92" />
-      <module name="java_20190508" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="net.bigdata.JZ.data.List.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="NC96_LC234" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="net.bigdata.JZ.data.List.NC96_LC234" />
       <module name="java_20190508" />
@@ -427,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LC1011" />
         <item itemvalue="Application.LC34" />
         <item itemvalue="Application.LC114" />
         <item itemvalue="Application.NC96_LC234" />
         <item itemvalue="Application.LC25" />
-        <item itemvalue="Application.NC21_LC92" />
       </list>
     </recent_temporary>
   </component>
@@ -510,7 +280,8 @@
       <workItem from="1637485874738" duration="497000" />
       <workItem from="1637486949274" duration="13000" />
       <workItem from="1637486982988" duration="2679000" />
-      <workItem from="1637732751923" duration="5049000" />
+      <workItem from="1637732751923" duration="6548000" />
+      <workItem from="1637910490947" duration="11012000" />
     </task>
     <servers />
   </component>
@@ -518,38 +289,42 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1637734480096">
+    <state x="320" y="114" key="#Inspections" timestamp="1637914902736">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1637734480096" />
-    <state width="1398" height="303" key="GridCell.Tab.0.center" timestamp="1637734480095">
+    <state x="320" y="114" key="#Inspections/0.0.1440.900@0.0.1440.900" timestamp="1637914902736" />
+    <state width="1398" height="166" key="GridCell.Tab.0.bottom" timestamp="1637926487383">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1637734480095" />
-    <state width="1398" height="303" key="GridCell.Tab.0.left" timestamp="1637734480094">
+    <state width="1398" height="166" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1637926487383" />
+    <state width="1398" height="166" key="GridCell.Tab.0.center" timestamp="1637926487382">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1637734480094" />
-    <state width="1398" height="303" key="GridCell.Tab.0.right" timestamp="1637734480095">
+    <state width="1398" height="166" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1637926487382" />
+    <state width="1398" height="166" key="GridCell.Tab.0.left" timestamp="1637926487377">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1637734480095" />
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1637734480943">
+    <state width="1398" height="166" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1637926487377" />
+    <state width="1398" height="166" key="GridCell.Tab.0.right" timestamp="1637926487382">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1637734480943" />
-    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1637734480942">
+    <state width="1398" height="166" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1637926487382" />
+    <state width="1398" height="326" key="GridCell.Tab.1.bottom" timestamp="1637926358029">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1637734480942" />
-    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1637734480941">
+    <state width="1398" height="326" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1637926358029" />
+    <state width="1398" height="326" key="GridCell.Tab.1.center" timestamp="1637926358028">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1637734480941" />
-    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1637734480942">
+    <state width="1398" height="326" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1637926358028" />
+    <state width="1398" height="326" key="GridCell.Tab.1.left" timestamp="1637926358028">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1637734480942" />
+    <state width="1398" height="326" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1637926358028" />
+    <state width="1398" height="326" key="GridCell.Tab.1.right" timestamp="1637926358028">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="326" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1637926358028" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -863,6 +638,11 @@
           <url>file://$PROJECT_DIR$/src/net/bigdata/JZ/data/array/二分搜索/LC34.java</url>
           <line>65</line>
           <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/JZ/data/array/二分搜索/LC1011.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="127" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
