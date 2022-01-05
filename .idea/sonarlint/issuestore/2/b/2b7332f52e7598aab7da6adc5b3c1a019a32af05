@@ -1,0 +1,11 @@
+
+k
+java:S1149+"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Øô•ßøÿÿÿÿ
+f
+java:S1149,"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Êî™ù
+c	java:S100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÈàÆ
+m
+java:S3776&"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(¥€Ôşÿÿÿÿ
+†
+java:S1319!"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ËÈàÆ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Á®¯½üÿÿÿÿ

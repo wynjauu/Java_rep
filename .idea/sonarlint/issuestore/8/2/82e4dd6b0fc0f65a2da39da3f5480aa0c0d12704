@@ -1,0 +1,6 @@
+
+h	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôò¿Ïşÿÿÿÿ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
+‹
+java:S1319""pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ôò¿Ïşÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òÿÊÀ

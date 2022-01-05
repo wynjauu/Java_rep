@@ -1,0 +1,9 @@
+
+E
+java:S3740""/Provide the parametrized type for this generic.(õ²‘
+D
+java:S5413'")Verify that "remove()" is used correctly.(ç“—”şÿÿÿÿ
+†
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÃÿÂØ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÿÂØ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı“Ş

@@ -1,0 +1,13 @@
+
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†åœá
+B
+java:S1612",Replace this lambda with a method reference.(ÂÍ­¬
+h
+java:S3776%"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(å«÷ø
+U
+java:S1854?":Remove this useless assignment to local variable "result".(‹“ì¬øÿÿÿÿ
+F
+java:S1481?"+Remove this unused "result" local variable.(‹“ì¬øÿÿÿÿ
+†
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(†åœá
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÓ€¤

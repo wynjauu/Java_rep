@@ -1,0 +1,7 @@
+
+C
+java:S1659="!Declare "id3" on a separate line.(äºÅ…ûÿÿÿÿ8ì¸„–Ý/
+C
+java:S1659="!Declare "id5" on a separate line.(äºÅ…ûÿÿÿÿ8í¸„–Ý/
+U	java:S106P"9Replace this use of System.out or System.err by a logger.(×Ž§ 8€¹„–Ý/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤îÌçüÿÿÿÿ

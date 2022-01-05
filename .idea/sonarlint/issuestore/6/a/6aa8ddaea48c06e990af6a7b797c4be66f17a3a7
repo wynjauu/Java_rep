@@ -1,0 +1,13 @@
+
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ª£Ðüÿÿÿÿ
+c	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é²ìŽ
+1
+java:S3626)"Remove this redundant jump.(ûÁÝ…
+M
+java:S1854n"8Remove this useless assignment to local variable "list".(Ìö¼
+Q	java:S125o"<This block of commented-out lines of code should be removed.(¡¥¸î
+>
+java:S1481n")Remove this unused "list" local variable.(Ìö¼
+‹
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(­ª£Ðüÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×–êJ

@@ -1,0 +1,7 @@
+
+N	java:S106""9Replace this use of System.out or System.err by a logger.(ñß¢´
+R
+java:S1854'"6Remove this useless assignment to local variable "s1".(©¿¾[8 ûô¬Ø/
+C
+java:S1481'"'Remove this unused "s1" local variable.(©¿¾[8éûô¬Ø/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸ÄïÖ

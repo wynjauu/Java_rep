@@ -40,6 +40,7 @@ public class NC78 {
             pre = cur;
             cur = temp;
         }
+        // 返回反转后的头结点
         return pre;
     }
 

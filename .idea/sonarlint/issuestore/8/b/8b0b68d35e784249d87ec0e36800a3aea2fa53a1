@@ -1,0 +1,12 @@
+
+P
+java:S1117(":Rename "result" which hides the field declared at line 79.(÷…Š
+P
+java:S11179":Rename "result" which hides the field declared at line 79.(÷…Š
+†
+java:S1319'"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ä™Ñ
+‹
+java:S13197"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Æ±ƒùÿÿÿÿ
+†
+java:S1319Q"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(®Èâˆ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(û÷ ¡

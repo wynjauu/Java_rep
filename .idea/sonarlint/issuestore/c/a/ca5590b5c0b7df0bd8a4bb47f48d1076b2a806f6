@@ -1,0 +1,9 @@
+
+i	java:S100±"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê•…Òøÿÿÿÿ
+X	java:S125Á"<This block of commented-out lines of code should be removed.(êë´L8°öÍ¶Ý/
+X	java:S125Ú"<This block of commented-out lines of code should be removed.(÷‡×8ä”™ºÝ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­£¬°
+`
+java:S3824–"IReplace this "Map.containsKey()" with a call to "Map.computeIfPresent()".(Èƒ‰
+`
+java:S3824Ù"IReplace this "Map.containsKey()" with a call to "Map.computeIfPresent()".(ížá“

@@ -1,0 +1,12 @@
+
+n
+java:S1602]"SRemove useless curly braces around statement and then remove useless return keyword(ìÖÛúÿÿÿÿ
+†
+java:S1319%"pThe type of the "lists" object should be an interface such as "List" rather than the implementation "ArrayList".(¼Àİ„
+‹
+java:S1319X"pThe type of the "lists" object should be an interface such as "List" rather than the implementation "ArrayList".(ÚÌ˜ùÿÿÿÿ
+Y
+java:S1155&">Use isEmpty() to check whether the collection is empty or not.(ˆ•ƒüÿÿÿÿ
+Y
+java:S1155Y">Use isEmpty() to check whether the collection is empty or not.(ˆ•ƒüÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ãÔıÎ

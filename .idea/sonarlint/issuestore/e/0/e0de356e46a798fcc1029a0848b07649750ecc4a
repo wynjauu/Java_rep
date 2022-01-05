@@ -1,0 +1,16 @@
+
+Q	java:S125!"<This block of commented-out lines of code should be removed.(ÉØ“ê
+4
+java:S16592"Declare "b" on a separate line.(ôÖ¥
+T
+java:S1854G"9Remove this useless assignment to local variable "node5".(Ô¦¾…ıÿÿÿÿ
+O
+java:S1854F"9Remove this useless assignment to local variable "node4".(ı›ûÉ
+Q	java:S125J"<This block of commented-out lines of code should be removed.(õÁÄ
+Q	java:S125N"<This block of commented-out lines of code should be removed.(„áåÙ
+N	java:S106P"9Replace this use of System.out or System.err by a logger.(•„Ú
+@
+java:S1481F"*Remove this unused "node4" local variable.(ı›ûÉ
+E
+java:S1481G"*Remove this unused "node5" local variable.(Ô¦¾…ıÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(û÷ ¡

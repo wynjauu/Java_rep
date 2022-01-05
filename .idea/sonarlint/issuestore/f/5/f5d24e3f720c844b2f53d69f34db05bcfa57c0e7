@@ -1,0 +1,7 @@
+
+j	java:S116"NRename this field "MIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½“¿ÿ8Ô£¢ÆÝ/
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¯ú¹­úÿÿÿÿ8”Ú¢ÆÝ/
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯ú¹­úÿÿÿÿ8¥¤¢ÆÝ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í¿ý¬

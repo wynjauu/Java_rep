@@ -1,0 +1,10 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(ªÆ·¸ÿÿÿÿÿ
+Q	java:S125)"<This block of commented-out lines of code should be removed.(†ŒÁ
+‹
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÏÇÈşÿÿÿÿ
+ˆ
+java:S13194"rThe type of the "queues" object should be an interface such as "List" rather than the implementation "LinkedList".(•á©Ê
+†
+java:S1319="pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Õ ®é
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İíÒºşÿÿÿÿ

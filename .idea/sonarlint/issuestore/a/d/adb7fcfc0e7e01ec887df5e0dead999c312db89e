@@ -1,0 +1,11 @@
+
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»‹¨„
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(»‹¨„
+Z
+java:S1854?"8Remove this useless assignment to local variable "str2".(‘ÿÚ¸úÿÿÿÿ8ªŸÉêİ/
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(Ö•ª
+]	java:S125A"<This block of commented-out lines of code should be removed.(­€æßÿÿÿÿÿ8õŸÉêİ/
+K
+java:S1481?")Remove this unused "str2" local variable.(‘ÿÚ¸úÿÿÿÿ8÷ŸÉêİ/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(öïìÿÿÿÿÿ

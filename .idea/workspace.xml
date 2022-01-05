@@ -2,133 +2,176 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c21a4e6-811c-4178-885d-45bed5b14de3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/数组/LC030.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/数组/LC1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/数组/LC1081.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/数组/LC170.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/数组/LC26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/数组/LC27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/数组/LC283.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/数组/LC316.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/数组/LC710.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/数组/二分搜索/LC410.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/数组/二分搜索/LC870.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/链表/LC83.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/排序/冒泡排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/排序/堆排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/排序/归并排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/排序/快速排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/算法/其他算法/字符串/LC28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/算法/其他算法/字符串/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/算法/动态规划/LC931.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/算法/动态规划/买卖股票/LC121.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/算法/动态规划/买卖股票/LC122.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/算法/动态规划/买卖股票/LC123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/算法/动态规划/买卖股票/LC188.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/算法/动态规划/买卖股票/LC309.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/算法/动态规划/买卖股票/LC714.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/算法/动态规划/回文/LC1312.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/算法/动态规划/回文/LC516.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/算法/动态规划/子序列类型/LC1413.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/算法/动态规划/子序列类型/LC300.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/算法/动态规划/子序列类型/LC53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/算法/动态规划/子序列类型/LC583.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/算法/动态规划/子序列类型/LC712.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/算法/动态规划/打家劫舍/LC198.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/算法/动态规划/打家劫舍/LC213.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/算法/动态规划/打家劫舍/LC337.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/算法/动态规划/背包类型/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/算法/动态规划/背包类型/LC416.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/算法/动态规划/背包类型/LC494.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/算法/动态规划/背包类型/LC518.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/算法/动态规划/背包类型/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/算法/回文/LC234.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/算法/回文/LC5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/力口/dfs/岛屿/LC1020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/力口/dfs/岛屿/LC1905.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/力口/dfs/岛屿/LC200.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/力口/dfs/岛屿/LC694.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/力口/dfs/岛屿/LC695.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/力口/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/dfs/NC109.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/dfs/NC12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/dfs/NC13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/dfs/NC138.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/dfs/NC5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/dfs/NC60.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/dfs/NC62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/二分/NC105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/二分/NC32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/二分/NC79.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/二分/NC86.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/动态规划/NC116.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/动态规划/NC34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/动态规划/NC35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/动态规划/NC87.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/动态规划/子序列/NC91.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/动态规划/子序列/NC92.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/动态规划/股票/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/动态规划/股票/NC135.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/动态规划/股票/NC7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/动态规划/背包/LC416.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/动态规划/背包/LC518.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/动态规划/背包/NC126.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/动态规划/连续子串/NC49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/双指针/NC128.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/双指针/NC82.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/哈希/NC75.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/哈希/NC97.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/基础数学/NC151.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/基础数学/NC79.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/堆/NC88.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/字符串/LC151.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/字符串/NC100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/字符串/NC103.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/字符串/NC113.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/字符串/NC121.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/字符串/NC122.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/字符串/NC141.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/字符串/NC17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/字符串/NC35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/字符串/NC44.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/字符串/NC49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/字符串/NC52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/字符串/NC55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/字符串/NC89.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/字符串/大数/NC10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/字符串/滑动窗口/NC28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/排序/NC111.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/排序/NC119.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/排序/NC131.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/排序/NC140.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/数组/NC107.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/数组/NC110.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/数组/NC118.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/数组/NC12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/数组/NC18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/数组/NC22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/数组/NC29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/数组/NC30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/数组/NC36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/数组/NC37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/数组/NC38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/数组/NC41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/数组/NC54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/数组/NC59.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/数组/NC61.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/数组/NC65.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/数组/NC7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/数组/NC73.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/数组/NC77.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/数组/NC95.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/数组/回溯/NC27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/栈/NC157.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/栈/NC76.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/栈/NC90.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/树/NC102.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/树/NC117.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/树/NC12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/树/NC123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/树/NC13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/树/NC98.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/树/路径/NC6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/树/路径/NC9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/树/遍历/NC161.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/树/镜像/NC72.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/模拟/NC1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/模拟/NC57.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/模拟/NC61.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/模拟/NC93.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/模拟/NC94.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/贪心/NC130.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/贪心/NC134.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/贪心/NC147.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/递归/NC137.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/递归/NC26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/递归/NC68.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/递归/回溯/NC43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/递归/回溯/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/递归/排列/NC42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/链表/NC132.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/链表/NC133.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/链表/NC2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/链表/NC21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/链表/NC24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/链表/NC25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/链表/NC3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/链表/NC33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/链表/NC4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/链表/NC40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/链表/NC51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/链表/NC53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/链表/NC66.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/链表/NC69.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/链表/NC70.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/bigdata/公司实战/子节/链表/NC96.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/9/19a3def20b340b039bfc440cee7fc9258521973c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/262b787d2208e5023a0ad0cf7378bb59624f18f5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/262b787d2208e5023a0ad0cf7378bb59624f18f5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2aa49660be6740e6e7cbd8e6bf3d9f9de77a4334" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2b40c3b8953142b101c58d5693f4146fc2e2bea2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/b/fbc53610b6e99e9a5cbd0e1c1c087d4081f1a4c2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/List/JZ22$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/List/JZ22.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/List/JZ23_LC142$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/List/JZ23_LC142.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/List/JZ24$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/List/JZ24.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/List/JZ25_LC21$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/List/JZ25_LC21.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/List/JZ52_LC160$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/List/JZ52_LC160.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/List/JZ6$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/List/JZ6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/List/LC141$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/List/LC141.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/List/LC25$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/List/LC25.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/List/LC876$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/List/LC876.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/List/NC21_LC92$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/List/NC21_LC92.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/List/NC51_LC23$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/List/NC51_LC23$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/List/NC51_LC23.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/List/NC53_LC19$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/List/NC53_LC19.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/List/NC78$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/List/NC78.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/List/NC96_LC234$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/List/NC96_LC234.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/array/LC1094.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/array/LC1109.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/array/LC303.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/array/LC304.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/array/LC560.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/array/二分搜索/LC1011.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/array/二分搜索/LC34.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/array/二分搜索/LC704.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/array/二分搜索/LC875.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/tree/JZ27$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/tree/JZ27.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/tree/JZ54$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/tree/JZ54.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/tree/JZZ7_LC105$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/tree/JZZ7_LC105.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/tree/LC106$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/tree/LC106.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/tree/LC114$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/tree/LC114.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/tree/LC116$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/tree/LC116.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/tree/LC222$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/tree/LC222.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/tree/LC236$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/tree/LC236.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/tree/LC297$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/tree/LC297.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/tree/LC450$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/tree/LC450.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/tree/LC538$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/tree/LC538.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/tree/LC652$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/tree/LC652.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/tree/LC654$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/tree/LC654.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/tree/LC700$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/tree/LC700.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/tree/LC701$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/tree/LC701.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/tree/LC95$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/tree/LC95.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/tree/LC96.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/tree/LC98$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/data/tree/LC98.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/List/JZ22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/链表/JZ22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/List/JZ23_LC142.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/链表/JZ23_LC142.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/List/JZ24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/链表/JZ24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/List/JZ25_LC21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/链表/JZ25_LC21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/List/JZ52_LC160.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/链表/JZ52_LC160.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/List/JZ6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/链表/JZ6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/List/LC141.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/链表/LC141.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/List/LC25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/链表/LC25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/List/LC876.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/链表/LC876.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/List/NC21_LC92.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/链表/NC21_LC92.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/List/NC51_LC23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/链表/NC51_LC23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/List/NC53_LC19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/链表/NC53_LC19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/List/NC78.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/链表/NC78.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/List/NC96_LC234.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/链表/NC96_LC234.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/array/LC1094.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/数组/LC1094.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/array/LC1109.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/数组/LC1109.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/array/LC303.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/数组/LC303.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/array/LC304.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/数组/LC304.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/array/LC560.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/数组/LC560.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/array/二分搜索/LC1011.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/数组/二分搜索/LC1011.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/array/二分搜索/LC34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/数组/二分搜索/LC34.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/array/二分搜索/LC704.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/数组/二分搜索/LC704.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/array/二分搜索/LC875.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/数组/二分搜索/LC875.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/tree/JZ27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/二叉树/JZ27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/tree/JZ54.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/二叉树/JZ54.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/tree/JZZ7_LC105.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/二叉树/JZZ7_LC105.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/tree/LC106.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/二叉树/LC106.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/tree/LC114.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/二叉树/LC114.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/tree/LC116.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/二叉树/LC116.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/tree/LC222.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/二叉树/LC222.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/tree/LC236.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/二叉树/LC236.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/tree/LC297.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/二叉树/LC297.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/tree/LC450.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/二叉树/LC450.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/tree/LC538.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/二叉树/LC538.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/tree/LC652.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/二叉树/LC652.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/tree/LC654.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/二叉树/LC654.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/tree/LC700.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/二叉树/LC700.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/tree/LC701.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/二叉树/LC701.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/tree/LC95.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/二叉树/LC95.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/tree/LC96.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/二叉树/LC96.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/data/tree/LC98.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/二叉树/LC98.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dosc/readme_juc" beforeDir="false" afterPath="$PROJECT_DIR$/dosc/readme_juc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/数据结构/数组/LC1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/数据结构/数组/LC1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/数据结构/数组/二分搜索/LC704.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/数据结构/数组/二分搜索/LC704.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/数据结构/链表/NC78.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/数据结构/链表/NC78.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/算法/动态规划/JZ10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_20190508/net/bigdata/JZ/算法/动态规划/LC103.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/数组/二分搜索/LC704.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/数组/二分搜索/LC704.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/链表/NC78.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/链表/NC78.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/算法/动态规划/JZ10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/bigdata/JZ/算法/动态规划/LC103.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,6 +180,9 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="201" />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
@@ -167,12 +213,6 @@
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="260" />
-    <option name="y" value="91" />
-    <option name="width" value="1440" />
-    <option name="height" value="753" />
   </component>
   <component name="ProjectId" id="1c3ooqAwIRiVhgcpvRjd3n50VTH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -213,13 +253,13 @@
       <recent name="net.qutoutiao" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LC1">
-    <configuration name="LC030" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.bigdata.JZ.数据结构.数组.LC030" />
+  <component name="RunManager" selected="Application.NC5">
+    <configuration name="LC1905" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.bigdata.公司实战.力口.dfs.岛屿.LC1905" />
       <module name="java_20190508" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="net.bigdata.JZ.数据结构.数组.*" />
+          <option name="PATTERN" value="net.bigdata.公司实战.力口.dfs.岛屿.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,12 +267,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.bigdata.JZ.数据结构.数组.LC1" />
+    <configuration name="NC126" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.bigdata.公司实战.子节.动态规划.背包.NC126" />
       <module name="java_20190508" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="net.bigdata.JZ.数据结构.数组.*" />
+          <option name="PATTERN" value="net.bigdata.公司实战.子节.动态规划.背包.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -240,12 +280,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.bigdata.JZ.数据结构.数组.LC27" />
+    <configuration name="NC127" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.bigdata.公司实战.子节.动态规划.连续子串.NC127" />
       <module name="java_20190508" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="net.bigdata.JZ.数据结构.数组.*" />
+          <option name="PATTERN" value="net.bigdata.公司实战.子节.动态规划.连续子串.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -253,12 +293,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC710" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.bigdata.JZ.数据结构.数组.LC710" />
+    <configuration name="NC5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.bigdata.公司实战.子节.dfs.NC5" />
       <module name="java_20190508" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="net.bigdata.JZ.数据结构.数组.*" />
+          <option name="PATTERN" value="net.bigdata.公司实战.子节.dfs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -266,12 +306,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC870" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.bigdata.JZ.数据结构.数组.二分搜索.LC870" />
+    <configuration name="NC97" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.bigdata.公司实战.子节.哈希.NC97" />
       <module name="java_20190508" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="net.bigdata.JZ.数据结构.数组.二分搜索.*" />
+          <option name="PATTERN" value="net.bigdata.公司实战.子节.哈希.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -281,11 +321,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LC1" />
-        <item itemvalue="Application.LC27" />
-        <item itemvalue="Application.LC710" />
-        <item itemvalue="Application.LC030" />
-        <item itemvalue="Application.LC870" />
+        <item itemvalue="Application.NC5" />
+        <item itemvalue="Application.LC1905" />
+        <item itemvalue="Application.NC127" />
+        <item itemvalue="Application.NC126" />
+        <item itemvalue="Application.NC97" />
       </list>
     </recent_temporary>
   </component>
@@ -365,7 +405,30 @@
       <workItem from="1637486949274" duration="13000" />
       <workItem from="1637486982988" duration="2679000" />
       <workItem from="1637732751923" duration="6548000" />
-      <workItem from="1637910490947" duration="40733000" />
+      <workItem from="1637910490947" duration="78295000" />
+      <workItem from="1638324341551" duration="95528000" />
+      <workItem from="1638756257012" duration="2216000" />
+      <workItem from="1638763842769" duration="22600000" />
+      <workItem from="1638793763191" duration="2984000" />
+      <workItem from="1638801162002" duration="44020000" />
+      <workItem from="1638931013326" duration="31818000" />
+      <workItem from="1639021214723" duration="34049000" />
+      <workItem from="1639119526519" duration="16408000" />
+      <workItem from="1639144865548" duration="47366000" />
+      <workItem from="1639384142640" duration="27000" />
+      <workItem from="1639385502316" duration="12950000" />
+      <workItem from="1639472700293" duration="67631000" />
+      <workItem from="1639636807522" duration="11733000" />
+      <workItem from="1639653257103" duration="147959000" />
+      <workItem from="1640144944070" duration="1296000" />
+      <workItem from="1640162064490" duration="7236000" />
+      <workItem from="1640328801304" duration="17060000" />
+      <workItem from="1640615204666" duration="4462000" />
+      <workItem from="1640663226863" duration="8325000" />
+      <workItem from="1640702370728" duration="3203000" />
+      <workItem from="1640771646549" duration="598000" />
+      <workItem from="1640845564709" duration="5320000" />
+      <workItem from="1640856352820" duration="5594000" />
     </task>
     <servers />
   </component>
@@ -373,54 +436,114 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="114" key="#Inspections" timestamp="1637914902736">
+    <state x="320" y="114" key="#Inspections" timestamp="1639820415240">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="114" key="#Inspections/0.0.1440.900@0.0.1440.900" timestamp="1637914902736" />
-    <state x="483" y="160" key="#xdebugger.evaluate" timestamp="1638027253707">
+    <state x="320" y="114" key="#Inspections/0.0.1440.900@0.0.1440.900" timestamp="1639820415240" />
+    <state x="446" y="257" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1638764126925">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="483" y="160" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1638027253707" />
-    <state width="426" height="466" key="DebuggerActiveHint" timestamp="1638027227484">
+    <state x="446" y="257" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1638764126925" />
+    <state x="533" y="159" key="#com.intellij.ide.util.MemberChooser" timestamp="1639909610918">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="426" height="466" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1638027227484" />
-    <state width="1398" height="262" key="GridCell.Tab.0.bottom" timestamp="1638079613702">
+    <state x="533" y="159" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1639909610918" />
+    <state x="539" y="321" key="#xdebugger.evaluate" timestamp="1640674769719">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="262" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1638079613702" />
-    <state width="1398" height="262" key="GridCell.Tab.0.center" timestamp="1638079613701">
+    <state x="539" y="321" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1640674769719" />
+    <state x="277" y="34" key="CommitChangelistDialog2" timestamp="1640051718136">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="262" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1638079613701" />
-    <state width="1398" height="262" key="GridCell.Tab.0.left" timestamp="1638079613700">
+    <state x="277" y="34" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1640051718135" />
+    <state width="426" height="466" key="DebuggerActiveHint" timestamp="1639901427475">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="262" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1638079613700" />
-    <state width="1398" height="262" key="GridCell.Tab.0.right" timestamp="1638079613702">
+    <state width="426" height="466" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1639901427475" />
+    <state width="1398" height="98" key="GridCell.Tab.0.bottom" timestamp="1640693827775">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="262" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1638079613702" />
-    <state width="1398" height="262" key="GridCell.Tab.1.bottom" timestamp="1638079614342">
+    <state width="1398" height="98" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1640693827775" />
+    <state width="1398" height="220" key="GridCell.Tab.0.bottom/0.25.1440.791@0.25.1440.791" timestamp="1639384088718" />
+    <state width="1398" height="227" key="GridCell.Tab.0.bottom/0.25.1440.794@0.25.1440.794" timestamp="1640511718324" />
+    <state width="1398" height="359" key="GridCell.Tab.0.bottom/0.25.1440.797@0.25.1440.797" timestamp="1638721116524" />
+    <state width="1398" height="98" key="GridCell.Tab.0.center" timestamp="1640693827773">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="262" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1638079614342" />
-    <state width="1398" height="262" key="GridCell.Tab.1.center" timestamp="1638079614339">
+    <state width="1398" height="98" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1640693827773" />
+    <state width="1398" height="220" key="GridCell.Tab.0.center/0.25.1440.791@0.25.1440.791" timestamp="1639384088716" />
+    <state width="1398" height="227" key="GridCell.Tab.0.center/0.25.1440.794@0.25.1440.794" timestamp="1640511718322" />
+    <state width="1398" height="359" key="GridCell.Tab.0.center/0.25.1440.797@0.25.1440.797" timestamp="1638721116523" />
+    <state width="1398" height="98" key="GridCell.Tab.0.left" timestamp="1640693827772">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="262" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1638079614339" />
-    <state width="1398" height="262" key="GridCell.Tab.1.left" timestamp="1638079614338">
+    <state width="1398" height="98" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1640693827772" />
+    <state width="1398" height="220" key="GridCell.Tab.0.left/0.25.1440.791@0.25.1440.791" timestamp="1639384088715" />
+    <state width="1398" height="227" key="GridCell.Tab.0.left/0.25.1440.794@0.25.1440.794" timestamp="1640511718318" />
+    <state width="1398" height="359" key="GridCell.Tab.0.left/0.25.1440.797@0.25.1440.797" timestamp="1638721116523" />
+    <state width="1398" height="98" key="GridCell.Tab.0.right" timestamp="1640693827775">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="262" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1638079614338" />
-    <state width="1398" height="262" key="GridCell.Tab.1.right" timestamp="1638079614340">
+    <state width="1398" height="98" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1640693827775" />
+    <state width="1398" height="220" key="GridCell.Tab.0.right/0.25.1440.791@0.25.1440.791" timestamp="1639384088717" />
+    <state width="1398" height="227" key="GridCell.Tab.0.right/0.25.1440.794@0.25.1440.794" timestamp="1640511718323" />
+    <state width="1398" height="359" key="GridCell.Tab.0.right/0.25.1440.797@0.25.1440.797" timestamp="1638721116524" />
+    <state width="1398" height="98" key="GridCell.Tab.1.bottom" timestamp="1640693827779">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="262" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1638079614340" />
-    <state x="302" y="181" width="835" height="538" key="find.popup" timestamp="1638016381089">
+    <state width="1398" height="98" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1640693827779" />
+    <state width="1398" height="257" key="GridCell.Tab.1.bottom/0.25.1440.791@0.25.1440.791" timestamp="1639384088677" />
+    <state width="1398" height="257" key="GridCell.Tab.1.bottom/0.25.1440.794@0.25.1440.794" timestamp="1639412313211" />
+    <state width="1398" height="359" key="GridCell.Tab.1.bottom/0.25.1440.797@0.25.1440.797" timestamp="1638721118036" />
+    <state width="1398" height="98" key="GridCell.Tab.1.center" timestamp="1640693827777">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="302" y="181" width="835" height="538" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1638016381089" />
+    <state width="1398" height="98" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1640693827777" />
+    <state width="1398" height="257" key="GridCell.Tab.1.center/0.25.1440.791@0.25.1440.791" timestamp="1639384088676" />
+    <state width="1398" height="257" key="GridCell.Tab.1.center/0.25.1440.794@0.25.1440.794" timestamp="1639412313210" />
+    <state width="1398" height="359" key="GridCell.Tab.1.center/0.25.1440.797@0.25.1440.797" timestamp="1638721118035" />
+    <state width="1398" height="98" key="GridCell.Tab.1.left" timestamp="1640693827776">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="98" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1640693827776" />
+    <state width="1398" height="257" key="GridCell.Tab.1.left/0.25.1440.791@0.25.1440.791" timestamp="1639384088675" />
+    <state width="1398" height="257" key="GridCell.Tab.1.left/0.25.1440.794@0.25.1440.794" timestamp="1639412313209" />
+    <state width="1398" height="359" key="GridCell.Tab.1.left/0.25.1440.797@0.25.1440.797" timestamp="1638721118033" />
+    <state width="1398" height="98" key="GridCell.Tab.1.right" timestamp="1640693827778">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="98" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1640693827778" />
+    <state width="1398" height="257" key="GridCell.Tab.1.right/0.25.1440.791@0.25.1440.791" timestamp="1639384088676" />
+    <state width="1398" height="257" key="GridCell.Tab.1.right/0.25.1440.794@0.25.1440.794" timestamp="1639412313211" />
+    <state width="1398" height="359" key="GridCell.Tab.1.right/0.25.1440.797@0.25.1440.797" timestamp="1638721118035" />
+    <state x="375" y="273" key="com.intellij.ide.util.TipDialog" timestamp="1640144943856">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="375" y="273" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1640144943856" />
+    <state x="505" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1640051701186">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="505" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1640051701186" />
+    <state x="100" y="100" width="1240" height="700" key="dock-window-1" timestamp="1639898701563">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="dock-window-1/0.0.1440.900@0.0.1440.900" timestamp="1639898701563" />
+    <state x="100" y="100" width="1240" height="700" key="dock-window-2" timestamp="1639921315445">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="dock-window-2/0.0.1440.900@0.0.1440.900" timestamp="1639921315445" />
+    <state x="302" y="181" width="835" height="538" key="find.popup" timestamp="1640919312544">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="302" y="181" width="835" height="538" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1640919312544" />
+    <state x="370" y="185" width="700" height="530" key="recent.locations.popup" timestamp="1640704996711">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="370" y="185" width="700" height="530" key="recent.locations.popup/0.0.1440.900@0.0.1440.900" timestamp="1640704996711" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1640499182182">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1640499182182" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -697,12 +820,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/链表/NC78.java</url>
-          <line>133</line>
+          <line>134</line>
           <option name="timeStamp" value="110" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/链表/NC78.java</url>
-          <line>139</line>
+          <line>140</line>
           <option name="timeStamp" value="111" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -760,6 +883,286 @@
           <line>35</line>
           <option name="timeStamp" value="133" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/JZ/算法/动态规划/背包类型/Demo.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/JZ/算法/其他算法/字符串/LC28.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/JZ/算法/其他算法/字符串/Test.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/JZ/算法/动态规划/背包类型/LC494.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/JZ/算法/动态规划/背包类型/Test.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/链表/NC96.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/链表/NC2.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/链表/NC2.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/树/路径/NC6.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/树/路径/NC6.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/树/路径/NC6.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/递归/NC68.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/JZ/算法/动态规划/子序列类型/LC300.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/JZ/算法/动态规划/子序列类型/LC300.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/动态规划/子序列/NC92.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/动态规划/子序列/NC92.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/字符串/NC17.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/字符串/NC89.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/字符串/大数/NC10.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/数组/NC41.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/数组/NC38.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="218" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/数组/NC38.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/数组/NC65.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/数组/NC65.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/数组/NC54.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/数组/NC36.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="225" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/递归/回溯/NC43.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="226" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/递归/回溯/NC43.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/递归/回溯/Test.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/数组/回溯/NC27.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="234" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/数组/回溯/NC27.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/JZ/数据结构/数组/二分搜索/LC704.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/JZ/排序/归并排序.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/JZ/排序/归并排序.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="242" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/JZ/排序/归并排序.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="243" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/数组/NC118.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="253" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/双指针/NC82.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="255" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/双指针/NC82.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="256" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/双指针/NC128.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="257" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/双指针/NC128.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="258" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/排序/NC140.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="259" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/排序/NC119.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="265" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/二分/NC79.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="266" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/二分/NC79.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="267" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/贪心/NC147.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="268" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/贪心/NC147.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="269" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/模拟/NC57.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="271" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/模拟/NC57.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="272" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/模拟/NC61.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="273" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/堆/NC88.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="274" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/堆/NC88.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="275" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/动态规划/背包/NC126.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="279" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/力口/dfs/岛屿/LC1905.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="282" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/力口/dfs/岛屿/LC1905.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="283" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/树/路径/NC5.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="284" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/net/bigdata/公司实战/子节/dfs/NC5.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="285" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <pin-to-top-manager>
@@ -767,17 +1170,22 @@
         <PinnedItemInfo />
       </pinned-members>
     </pin-to-top-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="dummy.val" />
-        <watch expression="dummy.val" />
-        <watch expression="b.next.next.val" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java_rep$NC2.ic" NAME="NC2 Coverage Results" MODIFIED="1638841810443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>net.bigdata.公司实战.子节.链表.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Java_rep$NC97.ic" NAME="NC97 Coverage Results" MODIFIED="1640011422572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>net.bigdata.公司实战.子节.哈希.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Java_rep$Test__1_.ic" NAME="Test (1) Coverage Results" MODIFIED="1638757556417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>net.bigdata.JZ.算法.动态规划.背包类型.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/java_20190508$J04.ic" NAME="J04 Coverage Results" MODIFIED="1621869791633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>net.qutoutiao.algorithm.zijie_20210524.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Java_rep$NC24.ic" NAME="NC24 Coverage Results" MODIFIED="1638805745381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>net.bigdata.公司实战.子节.链表.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/java_20190508$NC21_LC92.ic" NAME="NC21_LC92 Coverage Results" MODIFIED="1636295783440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>net.qutoutiao.JZ.数据结构.链表.*</FILTER>

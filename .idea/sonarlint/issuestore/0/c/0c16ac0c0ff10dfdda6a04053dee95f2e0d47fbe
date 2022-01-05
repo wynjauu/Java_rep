@@ -1,0 +1,7 @@
+
+Q	java:S125)"<This block of commented-out lines of code should be removed.(•‡—Ô
+†
+java:S1319&"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Áô€Ñ
+Š
+java:S1319&"tThe type of the "intervals" object should be an interface such as "List" rather than the implementation "ArrayList".(Áô€Ñ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëÇ„Ï

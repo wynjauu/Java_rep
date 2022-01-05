@@ -1,0 +1,7 @@
+
+T	java:S1068"9Replace this use of System.out or System.err by a logger.(Äş!8õÒé”Ü/
+Œ
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‰Ú‹V8¥óÅ”Ü/
+‹
+java:S1319!"pThe type of the "track" object should be an interface such as "List" rather than the implementation "ArrayList".(Â¹Ìúøÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×Æ¸

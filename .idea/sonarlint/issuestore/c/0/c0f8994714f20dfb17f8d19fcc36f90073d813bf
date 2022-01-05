@@ -1,0 +1,11 @@
+
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾é‡ûÿÿÿÿ8Á¢çéÜ/
+O
+java:S1854H"9Remove this useless assignment to local variable "nums2".(é°àú
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ
+@
+java:S1481H"*Remove this unused "nums2" local variable.(é°àú
+H
+java:S1128
+"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëÇ„Ï

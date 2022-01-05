@@ -1,0 +1,9 @@
+
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ8®ÎıÙ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¤—üÿÿÿÿ8¬úÙ/
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(„Î¨öıÿÿÿÿ8µÎıÙ/
+t	java:S127*"XRefactor the code in order to not assign to this loop counter from within the loop body.(²®ª›8ÄÎıÙ/
+s	java:S1277"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK8ÄÎıÙ/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ôı»Òúÿÿÿÿ
