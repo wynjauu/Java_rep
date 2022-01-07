@@ -1,0 +1,10 @@
+
+m
+java:S3776E"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(°è›´üÿÿÿÿ
+N
+java:S1854l"9Remove this useless assignment to local variable "node6".(¾çóc
+S	java:S106s"9Replace this use of System.out or System.err by a logger.(‡Ê‡–ûÿÿÿÿ
+V	java:S125q"<This block of commented-out lines of code should be removed.(áÁ¬‹ùÿÿÿÿ
+?
+java:S1481l"*Remove this unused "node6" local variable.(¾çóc
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿Ìïñ
